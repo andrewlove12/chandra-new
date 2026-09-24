@@ -1,2 +1,2 @@
-.\python.exe -m pip install --upgrade pip
-.\python.exe -m pip install -r requirements.txt --no-warn-script-location
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt --no-warn-script-location

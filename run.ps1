@@ -1,1 +1,1 @@
-.\python.exe process_pdfs.py
+python.exe process_pdfs.py
